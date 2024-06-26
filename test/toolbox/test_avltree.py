@@ -8,3 +8,4 @@ class TestAVLTree(unittest.TestCase):
         
     def test_add(self):
         self.assertEqual(self.tree.sum(2, 3), 5)
+print("Hello World!")
